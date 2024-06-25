@@ -1,0 +1,15 @@
+Practicing git commands
+
+git init
+git config --global user.name "user name"
+git config --global user.email "user123@gmail.com"
+git status
+git add -A
+git status
+git commit -m "message"
+git remote add origin "url"
+git push origin master
+git add -A
+git status
+git commit -m "message"
+git pull "url"
