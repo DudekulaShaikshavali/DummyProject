@@ -1,5 +1,5 @@
 import java.util.*;
-class HahTableDemo {
+class HashTableDemo {
     public static void main(String[] args) {
          Hashtable<Integer,String>map=new Hashtable<>();
     map.put(1,"Asif");
